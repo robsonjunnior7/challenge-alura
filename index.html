@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <link rel="stylesheet" href="styles.css" />
+  <link href='https://fonts.googleapis.com/css?family=Poppins' rel='stylesheet'>
+  <title>Decodificador Alura - Desafio</title>
+</head>
+
+<body>
+  <header class="cabecalhoPlayer">
+    <audio controls autoplay loop>
+        <source src="arquivos/MTG CHIHIRO.mp3" alt= "musica mtg chihiro billie eilish" type="audio/mpeg" style="margin-top: none";>
+        Your browser does not support the audio tag.
+    </audio>
+  </header>
+
+  <main>
+    <section class="inputSession">
+      <div class="topoPagina">
+        <img src="arquivos/hit me hard and soft.png" alt="logo hit me hard and soft billie" width="450px">
+      </div> 
+          <textarea class="inputMessage" placeholder="Digite seu texto" style="font-size: 20px; color: white"; rows="25rem";></textarea>
+            <div class="alertMessage">
+              <img src="arquivos/exclamacaopng.png " alt="ponto de exclamação" height="22";>
+              <span>Apenas letras minúsculas e sem acento.</span>
+            </div>
+                <div class="buttonSession">
+                  <button class="crip">Criptografar</button>
+                  <button class="descrip">Descriptografar</button>
+                </div>
+    </section>
+
+    <section class="outputSession" style="margin: 0 50px;">
+        <div>
+          <h5 style="font-size: 20px; margin-top: 3rem; color: #356EA9; font-weight: bold;"><p>Nenhuma mensagem encontrada</p></h5>
+          <p style= "color: #356EA9; font-size: 18px;"> Digite um texto que você deseja criptografar ou descriptografar.</p>
+          <img class="cantoraBillie" src="arquivos/billie-eilish-sem-fundo.png" alt="cantora billie eilish" height="350px">
+        </div>
+    </section>
+
+  </main>
+
+    <footer class="rodape">
+      <div class="sidebar">
+          <a href="https://github.com/robsonjunnior7" target="_blank"><img src="arquivos/github.svg" alt="logo github" height="30"></a>
+          <a href="https://www.instagram.com/robsonfsjr_/" target="_blank"><img src="arquivos/instagram.svg" alt="logo instagram" height="30"></a>
+          <a href="https://www.linkedin.com/in/robsonjunnior7/" target="_blank"><img src="arquivos/linkedin.svg" alt="logo linkedin" height="30"></a>
+      </div>
+        <p>Desenvolvido por Robson Fernandes, 2024</p>
+    </footer>
+
+  <script src="main.js"></script>
+
+</body>
+
+</html>

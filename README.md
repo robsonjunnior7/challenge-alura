@@ -42,7 +42,7 @@ O projeto é composto por três principais arquivos:
 O arquivo `index.html` define a estrutura da página, incluindo a área de texto para entrada e saída de texto, botões de criptografia e descriptografia, e a área de resultados.
 
 ### CSS
-O arquivo `style/style.css` contém os estilos para a formatação da página, incluindo cores, tamanhos de fonte e layout.
+O arquivo `style.css` contém os estilos para a formatação da página, incluindo cores, tamanhos de fonte e layout.
 
 ### JavaScript
 O arquivo `script.js` implementa a lógica para criptografar e descriptografar o texto, bem como a funcionalidade de copiar o texto para a área de transferência.

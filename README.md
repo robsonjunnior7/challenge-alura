@@ -7,7 +7,7 @@
 Encriptador é um projeto web simples e intuitivo que permite a criptografia e descriptografia de textos através de um esquema básico de substituição de caracteres. Basta inserir o texto desejado e clicar nos botões de "Criptografar" ou "Descriptografar" para transformar o conteúdo.
 
 ## Inspiração
-Este projeto foi inspirado pela cantora Billie Eilish. Durante o desenvolvimento, o novo álbum dela, lançado em maio de 2024, foi a trilha sonora que me acompanhou. As cores azuis e o conceito visual do álbum influenciaram o design e a estética do Encriptador, fazendo deste projeto uma pequena homenagem à artista.
+Este projeto foi inspirado na cantora e compositora Billie Eilish. Durante o desenvolvimento, o novo álbum dela, lançado em maio de 2024, foi a trilha sonora que me acompanhou. As cores azuis e o conceito visual do álbum influenciaram o design e a estética do Encriptador, fazendo deste projeto uma pequena homenagem à artista.
 
 <img src="https://www.euphoriazine.com/wp-content/uploads/2024/05/billie-eilish.jpg" width="450" height="300"/>
 
